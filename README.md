@@ -12,13 +12,13 @@ npm install --prefix client
 ```
 Run both server and client
 ```
-npm dev
+npm run dev
 ```
 Run only server
 ```
-npm server
+npm run server
 ```
 Run only client
 ```
-npm client
+npm run client
 ```
